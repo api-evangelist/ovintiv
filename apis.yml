@@ -6,7 +6,7 @@ description: >-
   North America with a focus on multi-basin development. This repository
   captures the APIs, developer tools, and machine-readable API artifacts
   associated with Ovintiv.
-type: Contract
+kind: contract
 position: Consumer
 access: 3rd-Party
 image: https://kinlane-productions2.s3.amazonaws.com/apis-json/apis-json-logo.jpg
